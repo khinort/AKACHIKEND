@@ -2,11 +2,11 @@
 
 # Khinort
 
-**Minecraft developer** · plugins · bases de datos · APIs · infraestructura
+**Desarrollador de software** · Backend · APIs · Infraestructura
 
-Software serio para servidores que no se pueden caer.<br>
-Java para Minecraft y para todo lo que lo rodea: desde el plugin que nadie ve<br>
-pero todo el mundo usa hasta la red completa con proxy, base de datos, API y despliegue.
+Diseño y mantengo sistemas pensados para funcionar bajo carga real:<br>
+servicios en Java, modelos de datos, APIs e infraestructura de despliegue.<br>
+Especializado en servidores de Minecraft de alta concurrencia.
 
 <br>
 
@@ -23,17 +23,17 @@ pero todo el mundo usa hasta la red completa con proxy, base de datos, API y des
 
 | | |
 |---|---|
-| **Plugins a medida** | Sistemas de juego, economía, permisos y herramientas de staff sobre Paper y Spigot. API limpia para que otros construyan encima. |
-| **Bases de datos y APIs** | Modelado de datos para jugadores, economía y rankings; caché con Redis; APIs REST y webhooks hacia la web, Discord o paneles. |
-| **Infraestructura** | Redes con Velocity, despliegue en Docker, datos en MySQL y Redis, observabilidad y copias de seguridad que se prueban. |
-| **Rendimiento** | Perfilado con Spark y flamegraphs, arreglo de lag de ticks, optimización de chunks y entidades bajo carga real. |
+| **Backend y APIs** | Servicios y APIs REST en Java y Node.js: modelado de datos, integraciones, webhooks y automatizaciones entre sistemas. |
+| **Datos** | Diseño de esquemas relacionales y de caché, consultas medidas y migraciones seguras sobre MySQL, PostgreSQL, Redis y MongoDB. |
+| **Infraestructura** | Despliegue reproducible con Docker sobre Linux, entornos separados, observabilidad y copias de seguridad verificadas. |
+| **Rendimiento y fiabilidad** | Perfilado y optimización con datos por delante: latencias, cuellos de botella y estabilidad sostenida en producción. |
+| **Minecraft** | Plugins y sistemas de juego sobre Paper y Spigot, redes con proxy Velocity y herramientas internas para equipos de staff. |
 
 ---
 
 ## Stack
 
-Nada exótico: cosas con documentación, comunidad detrás y años en producción.
-Lo interesante debe estar en el servidor, no en el stack.
+Herramientas elegidas por fiables: documentación, comunidad detrás y años en producción.
 
 **Lenguajes**
 
@@ -62,31 +62,11 @@ Lo interesante debe estar en el servidor, no en el stack.
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Infra**
+**Infraestructura**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-
----
-
-## Proyectos
-
-<!-- Sustituye los enlaces `#` por los repos o casos reales. -->
-
-| | Proyecto | Qué es | Stack |
-|---|---|---|---|
-| `01` | **[SkyBlock Core](#)** | Núcleo de SkyBlock con islas por jugador, misiones, economía y rankings en tiempo real. Más de 2.000 jugadores concurrentes con ticks estables. | Paper · Java · MySQL · Redis |
-| `02` | **[Arena Engine](#)** | Motor de minijuegos multi-servidor: matchmaking, colas, mapas por rondas y estadísticas sincronizadas entre lobbies. | Java · Velocity · Redis |
-| `03` | **[Stats API](#)** | API REST y panel web con estadísticas, economía y rankings en tiempo real, alimentados desde el servidor vía Redis. | Java · TypeScript · Redis · MySQL |
-| `04` | **[Nether Network](#)** | Red de servidores con proxy Velocity, balanceo automático, transferencia de jugadores y datos compartidos vía Redis. | Velocity · Docker · Linux |
-
----
-
-## Servidores con los que he trabajado
-
-**Nevoria** · **ArkenCraft** · **OrigenMC** · **SpainMC**
-
-`5+` años desarrollando para Minecraft &nbsp;·&nbsp; `40+` plugins en producción
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -94,18 +74,23 @@ Lo interesante debe estar en el servidor, no en el stack.
 
 <div align="center">
 
-![Resumen](https://github.com/khinort/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![Resumen](https://github.com/khinort/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![Lenguajes](https://github.com/khinort/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-![Lenguajes](https://github.com/khinort/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khinort&theme=github_dark" alt="Resumen de la actividad de Khinort en GitHub" />
 
 </div>
+
+<!--
+  Tarjetas adicionales (mismo servicio, se activan quitando el comentario):
+
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khinort&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khinort&theme=github_dark" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=khinort&hide_border=true&background=0a0a0c&ring=1a8aff&fire=1a8aff&currStreakLabel=1a8aff&sideLabels=ececee&currStreakNum=ececee&sideNums=ececee&dates=8b8b94" />
+-->
 
 ---
 
 <div align="center">
 
-**¿Un servidor con ideas, o uno que va a tirones?**
+**¿Tienes un proyecto en mente?**
 
 Cuéntame el contexto en dos líneas y te respondo en menos de 48 horas.
 
