@@ -92,7 +92,7 @@ Herramientas elegidas por fiables: documentación, comunidad detrás y años en 
 
 **¿Tienes un proyecto en mente?**
 
-Cuéntame el contexto en dos líneas y te respondo en menos de 48 horas.
+Cuéntame el contexto en dos líneas y te respondo en menos de 24 horas.
 
 [**hello@khinort.dev**](mailto:hello@khinort.dev) &nbsp;·&nbsp; [**khinort.dev**](https://khinort.dev)
 
