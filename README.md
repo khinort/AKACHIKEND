@@ -11,7 +11,7 @@ Especializado en servidores de Minecraft de alta concurrencia.
 <br>
 
 [![Web](https://img.shields.io/badge/khinort.dev-0a0a0c?style=for-the-badge&logo=googlechrome&logoColor=1a8aff&labelColor=0a0a0c)](https://khinort.dev)
-[![Email](https://img.shields.io/badge/hola@khinort.dev-0a0a0c?style=for-the-badge&logo=maildotru&logoColor=1a8aff&labelColor=0a0a0c)](mailto:hola@khinort.dev)
+[![Email](https://img.shields.io/badge/hello@khinort.dev-0a0a0c?style=for-the-badge&logo=maildotru&logoColor=1a8aff&labelColor=0a0a0c)](mailto:hello@khinort.dev)
 [![Discord](https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=1a8aff&labelColor=0a0a0c)](https://discord.com)
 [![SpigotMC](https://img.shields.io/badge/SpigotMC-0a0a0c?style=for-the-badge&logo=spigotmc&logoColor=1a8aff&labelColor=0a0a0c)](https://www.spigotmc.org)
 
@@ -94,6 +94,6 @@ Herramientas elegidas por fiables: documentación, comunidad detrás y años en 
 
 Cuéntame el contexto en dos líneas y te respondo en menos de 48 horas.
 
-[**hola@khinort.dev**](mailto:hola@khinort.dev) &nbsp;·&nbsp; [**khinort.dev**](https://khinort.dev)
+[**hello@khinort.dev**](mailto:hello@khinort.dev) &nbsp;·&nbsp; [**khinort.dev**](https://khinort.dev)
 
 </div>
